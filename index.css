@@ -1,0 +1,18 @@
+*
+    {
+    margin:0;
+    padding:0
+    }
+div
+    {
+        width:300px;
+        height:300px;
+        position:absolute;
+        top:50%;
+        left:50%;
+        margin-left:-150px;
+        margin-top:-150px;
+        background:chocolate;
+        color:rgb(255, 209, 2);
+        text-align:center;
+    }
